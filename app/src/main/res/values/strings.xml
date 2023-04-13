@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BookEASE</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="update_password">reset_password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="name">Name</string>
+    <string name="studentid">Student ID</string>
+    <string name="return_to_user_login">Return to user login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="space">Space</string>
+    <string name="spaces">Spaces</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="type">Type</string>
+    <string name="book">Book</string>
+    <string name="booking">Booking</string>
+    <string name="pax5">5</string>
+    <string name="eightoclock">08:00</string>
+    <string name="status">Status</string>
+    <string name="selected">Your Selection</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="block">Block</string>
+    <string name="delete">Delete</string>
+    <string name="action">Action</string>
+    <string name="cancelBooking">Cancel Booking</string>
+    <string name="profile">Profile</string>
+    <string name="users">Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

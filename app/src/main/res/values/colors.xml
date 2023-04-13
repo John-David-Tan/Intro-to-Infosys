@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#86D3FC</color>
+    <color name="purple_500">#006BEE</color>
+    <color name="purple_700">#0080B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="canvagray0">#808080</color>
+    <color name="canvagray1">#979797</color>
+    <color name="canvagray2">#AEAEAE</color>
+    <color name="juholightgray">#141C1B1F</color>
+    <color name="juholightblue">#A6D3E2FD</color>
+    <color name="juhodarkblue">#0957D0</color>
+</resources>
